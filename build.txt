@@ -1,0 +1,4 @@
+displayName = Better WaveSkipper
+modReferences = CalamityMod
+author = HoCha113
+version = 1.1

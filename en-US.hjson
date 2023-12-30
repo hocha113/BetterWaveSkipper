@@ -1,0 +1,16 @@
+Mods: {
+	BetterWaveSkipper: {
+		Items: {
+			Weapons: {
+				Rogue: {
+					WaveSkipper: {
+						DisplayName: Wave Skipper
+						Tooltip: ""
+					}
+				}
+			}
+		}
+
+		Projectiles.Rogue.RWaveSkipperProjectile.DisplayName: R Wave Skipper Projectile
+	}
+}

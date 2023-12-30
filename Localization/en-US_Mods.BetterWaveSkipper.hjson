@@ -1,0 +1,10 @@
+﻿Items: {
+	WaveSkipper: {
+		DisplayName: Wave Skipper
+		Tooltip:
+			'''
+			Left-click launch can sneak through the sand to pursue enemy salons, stealth attack launches three large salons
+			Right-click to launch a bouncing salon and sneak attack to summon several large, fast salons from the sky
+			'''
+	}
+}
